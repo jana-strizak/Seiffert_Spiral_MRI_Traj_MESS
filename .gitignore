@@ -1,0 +1,21 @@
+retrospectivelUSRealData.py
+reconImage_example.py
+makeTrajectory_example2.ipynb
+image.nii
+createPSF_example.py
+.ipynb_checkpoints/
+YB_1Echos_100FOV_5msRO_1mmRes_2alpha_SpiralOut/
+YB_1Echos_100FOV_6msRO_1mmRes_2alpha_SpiralOut/
+YB_1Echos_240FOV_6msRO_1mmRes_0p5alpha_SpiralOut/
+YB_1Echos_240FOV_6msRO_2mmRes_0p5alpha_SpiralOut/
+/temp/
+SeiffertSpiralMRITraj.egg-info/
+SeiffertSpiralMRITraj/__pycache__/
+/build/
+/exampleData
+*.zip
+
+# Ignore large data files (e.g., .dat, .nii, .npy) - Add these to Git LFS instead
+*.dat
+*.nii
+*.npy
